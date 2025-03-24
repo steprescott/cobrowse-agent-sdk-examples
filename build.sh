@@ -23,5 +23,7 @@ build "custom-agent-demo"
 copy_build "custom-agent-demo"
 build "react-example"
 copy_build "react-example"
+build "custom-crm"
+copy_build "custom-crm"
 
 cp -f "./README.md" "./build/"
